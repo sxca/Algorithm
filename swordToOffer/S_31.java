@@ -22,7 +22,5 @@ public class S_31 {
         return true;
     }
 
-    public static void main(String[] args) {
-        System.out.println("hahahah");
-    }
+
 }
